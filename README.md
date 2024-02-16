@@ -1,0 +1,2 @@
+# -Banking-Insights-and-Enhancement-Strategy-A-Transactional-Data-Analysis-Project
+This project analyzes REC-SSEC Bank's transaction data to identify trends and patterns by location. Using PySpark, it calculates average daily transactions, ranks domains by value, and highlights geographical variations in volumes. Insights aim to enhance services and identify growth opportunities leveraging a dataset of over 1 million observation.
